@@ -15,6 +15,24 @@ Here is the text from the "turnout_servo_sketchbook.ino" file as of the date of 
   http://www.motorhomesites.org.uk/railway/JMRI_Arduino_Setup.php
   
   https://www.jmri.org/help/en/html/hardware/arduino/index.shtml
+  
+  https://www.arduino.cc/en/Tutorial/BuiltInExamples/BlinkWithoutDelay
+  
+  Libraries used came from:
+  
+  https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library
+  
+  https://github.com/madleech/Auto485
+  
+  https://github.com/madleech/ArduinoCMRI
+  
+  JMRI is here:
+  
+  https://www.jmri.org/
+  
+  Information about C/MRI is here:
+  
+  https://jlcenterprises.net/
 
   The program will control up to eight servos using the writeMicroseconds command for PWM control.
 
